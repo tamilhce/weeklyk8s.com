@@ -1,13 +1,12 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: WeeklyK8s
 
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: Weekly Kubernetes
 # Your name to show in the footer
-author: Some Person
+author: tamilhce
 
 # --- List of links in the navigation bar --- #
 
